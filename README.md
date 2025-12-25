@@ -15,9 +15,9 @@ This is the official Pytorch implementation of our paper:
 > 
 > [**XD-Violence 5-crop I3D features**](https://roc-ng.github.io/XD-Violence/)
 >
-> [**best performance ckpt for UCF-Crime**](models/DSS-ucf.pth)
+> [**best performance ckpt for UCF-Crime**](https://1drv.ms/f/c/36E9010478E48202/IgA3RYHYxcK7Qaofu6_2kI7MAXpr-nBzyioYgiyKCX4_2fk?e=tN8PtK)
 >
-> [**best performance ckpt for XD-Violence**](models/DSS-xd.pth)
+> [**best performance ckpt for XD-Violence**](https://1drv.ms/f/c/36E9010478E48202/IgA3RYHYxcK7Qaofu6_2kI7MAXpr-nBzyioYgiyKCX4_2fk?e=tN8PtK)
 
 The following files need to be adapted in order to run the code on your own machine:
 - Change the file paths to the download datasets above in `list/xd_train.list` and `list/xd_test.list`.
