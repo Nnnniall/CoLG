@@ -1,6 +1,6 @@
 # CoLG
 This is the official Pytorch implementation of our paper:
-> **Co-teaching with Local and Global Information for Weakly Supervised Video Anomaly Detection**
+> [**Co-teaching with Local and Global Information for Weakly Supervised Video Anomaly Detection**](https://ieeexplore.ieee.org/abstract/document/11229242)
 > 
 > Chen Xu, Chunguo Li, Hongjie Xing
 - **Accepted at IJCNN 2025.**
@@ -9,7 +9,7 @@ This is the official Pytorch implementation of our paper:
 
 ## Setup
 
-**We use the extracted I3D features for UCF-Crime and XD-Violence datasets from the following works:**
+We use the extracted I3D features for UCF-Crime and XD-Violence datasets from the following works:
 
 > [**UCF-Crime 10-crop I3D features**](https://github.com/tianyu0207/RTFM?tab=readme-ov-file)
 > 
